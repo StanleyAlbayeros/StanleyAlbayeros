@@ -1,4 +1,4 @@
-Hi, I’m Stanley
+# Hi, I’m Stanley 🤖
 
 I’m an **AI/ML developer** and **Associate Professor (Robotics)** at the *Universitat Autònoma de Barcelona (UAB)*, based in **Barcelona, Spain**.
 I hold a **BSc in Computer Engineering** and an **MSc in Computer Vision** (UAB).
