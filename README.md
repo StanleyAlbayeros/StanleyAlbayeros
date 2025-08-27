@@ -1,16 +1,30 @@
-## Hi there 👋
+Hi, I’m Stanley
 
-<!--
-**StanleyAlbayeros/StanleyAlbayeros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m an **AI/ML developer** and **Associate Professor (Robotics)** at the *Universitat Autònoma de Barcelona (UAB)*, based in **Barcelona, Spain**.
+I hold a **BSc in Computer Engineering** and an **MSc in Computer Vision** (UAB).
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 What I Do
+- 🧠 Applied AI/ML in Python
+- 👀 Computer vision & procedural/physics-based animation
+- 🎮 Indie game development with **Godot Engine**
+- ⚙️ Systems programming in **C++** and **C#**
+
+---
+
+## 🔭 Current Focus
+- 🔭 I’m currently working on **Godot games** and **procedural generation**
+- 🌱 I’m currently learning **GDScript** and **indie game dev**
+
+---
+
+## 🔧 Hobbies & Side Projects
+- 🤖 Robotics & DIY with **Arduino**, **Raspberry Pi**, and other SBCs
+- 🧩 Control, simulation, and tooling for embedded systems
+- 🖨️ **3D printing** (FDM & resin): parts, jigs, and rapid prototypes
+
+---
+
+## 📫 Connect
+- Email: **stanley.albayeros@gmail.com**
